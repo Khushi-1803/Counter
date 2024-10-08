@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Khushi-1803/Counter/static/css/main.69a1907f.css",
+    "main.js": "/Khushi-1803/Counter/static/js/main.d7ae1f65.js",
+    "static/js/453.f1265bbc.chunk.js": "/Khushi-1803/Counter/static/js/453.f1265bbc.chunk.js",
+    "index.html": "/Khushi-1803/Counter/index.html",
+    "main.69a1907f.css.map": "/Khushi-1803/Counter/static/css/main.69a1907f.css.map",
+    "main.d7ae1f65.js.map": "/Khushi-1803/Counter/static/js/main.d7ae1f65.js.map",
+    "453.f1265bbc.chunk.js.map": "/Khushi-1803/Counter/static/js/453.f1265bbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69a1907f.css",
+    "static/js/main.d7ae1f65.js"
+  ]
+}
